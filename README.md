@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/olatunde222/Digital-Business-Website/assets/115417709/f0a2a907-0a6c-4c58-b735-a18a5bc43c01)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
