@@ -1,3 +1,5 @@
+![image](https://github.com/olatunde222/Digital-Business-Website/assets/115417709/1be854d6-3455-4551-af03-da65fc2ded6e)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
